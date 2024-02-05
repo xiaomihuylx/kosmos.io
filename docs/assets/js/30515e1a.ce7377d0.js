@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5868],{9376:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/kosmos.io/blog/tags/hello","allTagsPath":"/kosmos.io/blog/tags","count":2,"unlisted":false}')}}]);

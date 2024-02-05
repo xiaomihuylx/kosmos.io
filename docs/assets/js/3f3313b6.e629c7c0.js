@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6856],{2256:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/xiaomihuylx.io/blog/tags/facebook","allTagsPath":"/xiaomihuylx.io/blog/tags","count":1,"unlisted":false}')}}]);

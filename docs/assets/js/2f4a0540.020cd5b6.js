@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6704],{9504:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/kosmos.io/blog/tags/facebook","allTagsPath":"/kosmos.io/blog/tags","count":1,"unlisted":false}')}}]);
